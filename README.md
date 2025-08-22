@@ -51,18 +51,29 @@
 
 ## 👥 Friends & Collaborators
 
-<div align="center">
-  
-  <a href="https://github.com/mak5er" target="_blank">
-    <img src="https://github.com/mak5er.png?size=100" width="100" height="100" alt="mak5er" style="border-radius: 50%;">
-  </a>
-  <br>
-  <strong>mak5er</strong>
-  <br>
-  <sub>Collaborator & Friend</sub>
-  
-</div>
+<div style="display: flex; flex-direction: row-reverse; justify-content: center; gap: 40px; text-align: center;">
 
+  <div>
+    <a href="https://github.com/mak5er" target="_blank">
+      <img src="https://github.com/mak5er.png?size=100" width="100" height="100" alt="mak5er" style="border-radius: 50%;">
+    </a>
+    <br>
+    <strong>mak5er</strong>
+    <br>
+    <sub>Collaborator & Friend</sub>
+  </div>
+
+  <div>
+    <a href="https://github.com/SAY-BOOM" target="_blank">
+      <img src="https://github.com/SAY-BOOM.png?size=100" width="100" height="100" alt="SAY BOOM" style="border-radius: 50%;">
+    </a>
+    <br>
+    <strong>SAY BOOM</strong>
+    <br>
+    <sub>Collaborator & Friend</sub>
+  </div>
+
+</div>
 
 ---
 
