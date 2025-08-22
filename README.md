@@ -9,17 +9,26 @@
 
 ---
 
-###  About Me
--  **Username:** merybist — installer, automator, panel enthusiast.
--  **Focus:** Pterodactyl Panel & Wings, server infrastructure, Bash scripting.
--  **Fun fact:** I turn coffee into scripts ☕ + 🐚 = ❤️
--  **Stack:** Linux · Bash · Docker · Nginx · MySQL/MariaDB · Python 
+### 👨‍💻 About Me
+- **Username:** merybist — curious developer & explorer of technologies.  
+- **Focus:** Writing code, mostly **Telegram bots**, automation tools, and experimenting with new tech.  
+- **Passions:** Exploring operating systems, trying different distros, and diving into system internals.  
+- **Mindset:** I don't stick to one stack — I like to discover myself in multiple directions, learning and building along the way.  
+- **Fun fact:** I turn coffee into scripts ☕ + 🐍 = 🚀  
+- **Stack (so far):** Python · Linux · Bash · Docker · Nginx · MySQL/MariaDB  
+
 
 ---
 
-###  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merybist&hide=contribs&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merybist&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=merybist&show_icons=true&theme=radical" alt="merybist's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merybist&layout=compact&theme=radical" alt="Top Langs" height="160" />
+
+</div>
+
 
 ---
 
