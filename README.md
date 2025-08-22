@@ -47,6 +47,22 @@
 | [merybist/DownloaderBot](https://github.com/merybist/DownloaderBot) | A Telegram bot that can download any video from TikTok/YouTube/Instagram |
 | [merybist/MerySearchBot](https://github.com/merybist/MerySearchBot) | A Telegram bot that can search for your favorite song by title on YouTube Music |
 
+---
+
+## 👥 Friends & Collaborators
+
+<div align="center">
+  
+  <a href="https://github.com/mak5er" target="_blank">
+    <img src="https://github.com/mak5er.png?size=100" width="100" height="100" alt="mak5er" style="border-radius: 50%;">
+  </a>
+  <br>
+  <strong>mak5er</strong>
+  <br>
+  <sub>Collaborator & Friend</sub>
+  
+</div>
+
 
 ---
 
@@ -70,6 +86,12 @@
 Have an idea, bugfix, or collaboration in mind? Feel free to **open an issue** in any of my repos or drop me a message—always up for innovation and problem solving!
 
 ---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=merybist&color=blueviolet)
+  
+</div>
 
 <p align="center">
   Thanks for stopping by — happy coding! 🐱‍💻
