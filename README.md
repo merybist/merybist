@@ -13,7 +13,7 @@
 -  **Username:** merybist — installer, automator, panel enthusiast.
 -  **Focus:** Pterodactyl Panel & Wings, server infrastructure, Bash scripting.
 -  **Fun fact:** I turn coffee into scripts ☕ + 🐚 = ❤️
--  **Stack:** Ubuntu · Bash · Docker · Nginx · MySQL/MariaDB
+-  **Stack:** Linux · Bash · Docker · Nginx · MySQL/MariaDB · Python 
 
 ---
 
