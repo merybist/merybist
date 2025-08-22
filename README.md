@@ -43,9 +43,9 @@
 ###  Projects & Contributions
 | Project | Description |
 |--------|-------------|
-| [merybist/Pterodactyl-Panel-Installation-Guide](https://github.com/merybist/Pterodactyl-Panel-Installation-Guide) | Fixes for common nginx & DB issues |
-| [merybist/DownloaderBot](https://github.com/merybist/DownloaderBot) | A Telegram bot that can download any video from TikTok/YouTube/Instagram |
-| [merybist/MerySearchBot](https://github.com/merybist/MerySearchBot) | A Telegram bot that can search for your favorite song by title on YouTube Music |
+| [merybist/Pterodactyl-Panel-Installation-Guide](https://github.com/merybist/Pterodactyl-Panel-Installation-Guide) | A comprehensive step-by-step tutorial for installing Pterodactyl Panel and Wings on Ubuntu 24.04 LTS, specifically designed to help avoid common errors and issues. Includes practical fixes for nginx configuration problems and database setup challenges. |
+| [merybist/DownloaderBot](https://github.com/merybist/DownloaderBot) | Advanced bot that can download and send videos from: TikTok (without watermark), YouTube (HD quality),  Instagram (Reels, Posts, Stories), Audio extraction from videos, Fast processing with queue system|
+| [merybist/MerySearchBot](https://github.com/merybist/MerySearchBot) | Smart music discovery bot featuring: Find songs by title/lyrics/artist, Search across YouTube Music catalog, Direct audio streaming and downloads, Music recognition capabilities |
 
 ---
 
