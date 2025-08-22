@@ -1,11 +1,13 @@
-<h1 align="center">
-  Hi there, I'm merybist! <br>
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=00BCFF&lines=DevOps+Wizard;Pterodactyl+Panel+Fan;Always+Coding" alt="Typing SVG" />
-</h1>
+<h1 align="center" style=Tahoma>Welcome, glad to see you</h1>
+<div style=Tahoma align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=00BCFF&center=true&lines=Open-Source+Enthusiast;Python+Developer;Linux+Middle" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20Dev%20World!&animation=fadeIn&color=gradient&height=100" alt="capsule-banner"/>
-</p>
+  <br>
+  
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?logo=opensourceinitiative" alt="Open Source">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-Middle-FCC624?logo=linux" alt="Linux">
+</div>
 
 ---
 
@@ -41,18 +43,26 @@
 ###  Projects & Contributions
 | Project | Description |
 |--------|-------------|
-| **Pterodactyl Panel Installer** | Automated setup scripts for Ubuntu 24.04 LTS |
-| **Panel Troubleshooting Guide** | Fixes for common nginx & DB issues |
-| **Artisan Commands Helper** | Quick management utilities for panel users |
+| [merybist/Pterodactyl-Panel-Installation-Guide](https://github.com/merybist/Pterodactyl-Panel-Installation-Guide) | Fixes for common nginx & DB issues |
+| [merybist/DownloaderBot](https://github.com/merybist/DownloaderBot) | A Telegram bot that can download any video from TikTok/YouTube/Instagram |
+| [merybist/MerySearchBot](https://github.com/merybist/MerySearchBot) | A Telegram bot that can search for your favorite song by title on YouTube Music |
 
-*(Replace with your actual project names and links.)*
 
 ---
 
-###  Currently Working On
-- Automating Wings node deployment
-- Enhancing installer logging and error diagnostics
-- Adding auto-renewal for Let's Encrypt setups
+### 🔧 Currently Working On
+
+- **🤖 Telegram Bots Development**  
+  Building advanced bots with AI features and payment integrations
+
+- **⚡ Automation Systems**  
+  Creating scripts for deployment, monitoring, and maintenance automation
+
+- **📚 Learning New Technologies**  
+  Continuously exploring new frameworks and tools to enhance my skills
+
+- **🐧 Linux Optimization**  
+  Improving server performance and security configurations
 
 ---
 
