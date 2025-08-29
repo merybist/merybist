@@ -16,7 +16,7 @@
 - **Focus:** Writing code, mostly **Telegram bots**, automation tools, and experimenting with new tech.  
 - **Passions:** Exploring operating systems, trying different distros, and diving into system internals.  
 - **Mindset:** I don't stick to one stack — I like to discover myself in multiple directions, learning and building along the way.  
-- **Stack (so far):** Python · Linux · Bash · Docker · Nginx · MySQL/MariaDB  
+- **Stack (so far):** Python · Linux · Bash · Docker · Nginx · MySQL/MariaDB/Postgres  
 
 
 ---
