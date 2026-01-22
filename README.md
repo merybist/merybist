@@ -45,6 +45,7 @@
 | [merybist/Pterodactyl-Panel-Installation-Guide](https://github.com/merybist/Pterodactyl-Panel-Installation-Guide) | A comprehensive step-by-step tutorial for installing Pterodactyl Panel and Wings on Ubuntu 24.04 LTS, specifically designed to help avoid common errors and issues. Includes practical fixes for nginx configuration problems and database setup challenges. |
 | [merybist/DownloaderBot](https://github.com/merybist/DownloaderBot) | Advanced bot that can download and send videos from: TikTok (without watermark), YouTube (HD quality),  Instagram (Reels, Posts, Stories), Audio extraction from videos, Fast processing with queue system|
 | [merybist/MerySearchBot](https://github.com/merybist/MerySearchBot) | Smart music discovery bot featuring: Find songs by title/lyrics/artist, Search across YouTube Music catalog, Direct audio streaming and downloads, Music recognition capabilities |
+| [merybist/merybist-scripts](https://github.com/merybist/merybist-scripts) | There is a separate optimization script that performs system tweaks, manages services, cleans the system, and collects basic information about the OS/hardware to improve Windows performance. |
 
 ---
 
