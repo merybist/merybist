@@ -2,7 +2,7 @@
 
 # Hey, I'm merybist
 
-See my website - [merybist.pages.dev](https://merybist.pages.dev)
+See my website - [merybist.is-a.dev](https://merybist.is-a.dev)
 
 <br/>
 
