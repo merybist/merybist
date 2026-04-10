@@ -28,7 +28,7 @@ See my website - [merybist.is-a.dev](https://merybist.is-a.dev)
 
 <div align="center">
 
-<a href="https://telegram.org">
+<a href="https://t.me/merybist">
   <img src="https://img.shields.io/badge/TELEGRAM-5865F2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
